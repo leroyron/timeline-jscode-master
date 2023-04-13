@@ -31,4 +31,4 @@ VSCode Extension
 
 [tvl]: <https://github.com/leroyron/timeline-jsvscode>
 
-https://www.youtube.com/watch?v=k4Zvu3SiwWk&feature=youtu.be
+https://www.youtube.com/watch?v=n7lnU-rwBIc&t=0s
